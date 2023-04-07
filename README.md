@@ -8,4 +8,4 @@
 
 
 ## 최종 산출물
-- https://www.mdpi.com/2079-9292/11/23/3868
+- [Provably Secure PUF-Based Lightweight Mutual Authentication Scheme for Wireless Body Area Networks](https://www.mdpi.com/2079-9292/11/23/3868)
